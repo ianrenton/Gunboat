@@ -7,11 +7,11 @@ Gunboat is a slow-paced 2D shooter written in Java and JoGL.  It is far from fin
 
 Gunboat requires [Java](http://java.sun.com) 1.6 and [JoGL](https://jogl.dev.java.net).  Install Java as usual, and make sure the JoGL binaries (.dll files for Windows, .jnilib for Mac OS X, .so for Linux) are on the system path.  (You can just put the libraries in the Gunboat directory if you like.)
 
-Download Gunboat itself [here](http://www.onlydreaming.net/files/Gunboat/Gunboat.zip), and unzip it anywhere you like.  Run "java -jar dist/Gunboat.jar" to run the game.  Gunboat.bat (Windows) or Gunboat.sh (Mac) will do this for you.
+Download Gunboat itself [here](https://github.com/ianrenton/Gunboat/files/702941/Gunboat.zip), and unzip it anywhere you like.  Run "java -jar dist/Gunboat.jar" to run the game.  Gunboat.bat (Windows) or Gunboat.sh (Mac) will do this for you.
 
 ### Online Version
 
-I have done some work on an [online browser-based version of Gunboat](http://www.onlydreaming.net/files/gunboatonline/index.html).  (Requires Google Earth plugin.)  However, it's in its very early stages (you can't shoot, there aren't any enemies...).  I'm not sure if I'll continue with it - one on had, level design has suddenly become very easy!  On the other hand, ick, Javascript.  Source code for it is [here on GitHub](https://github.com/ianrenton/GunboatOnline).
+I have done some work on an online browser-based version of Gunboat. However, it's in its very early stages (you can't shoot, there aren't any enemies...).  I'm not sure if I'll continue with it - one on had, level design has suddenly become very easy!  On the other hand, ick, Javascript.  Source code for it is [here on GitHub](https://github.com/ianrenton/GunboatOnline).
 
 The rest of this page largely refers to the offline version, as it has many working gameplay components that the online version does not.
 
