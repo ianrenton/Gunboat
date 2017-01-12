@@ -11,7 +11,7 @@ Download Gunboat itself [here](https://github.com/ianrenton/Gunboat/files/702941
 
 ### Online Version
 
-I have done some work on an online browser-based version of Gunboat. However, it's in its very early stages (you can't shoot, there aren't any enemies...).  I'm not sure if I'll continue with it - one on had, level design has suddenly become very easy!  On the other hand, ick, Javascript.  Source code for it is [here on GitHub](https://github.com/ianrenton/GunboatOnline).
+I have done some work on an [online browser-based version of Gunboat](http://ianrenton.github.io/GunboatOnline/). However, it's in its very early stages (you can't shoot, there aren't any enemies...).  I'm not sure if I'll continue with it - one on had, level design has suddenly become very easy!  On the other hand, ick, Javascript.  Source code for it is [here on GitHub](https://github.com/ianrenton/GunboatOnline).
 
 The rest of this page largely refers to the offline version, as it has many working gameplay components that the online version does not.
 
